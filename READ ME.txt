@@ -1,0 +1,21 @@
+ReadMe File
+
+The file where the code is present is "rnn using lstm.ipynb"
+
+
+(i) This is written on google collaboratory. Please download the .ipynb file and then open google colab and then click on File->Upload Notebook and then upload the file.
+The dataset is hosted on public repository and hence not required to download(https://raw.githubusercontent.com/bmounikareddy98/Machine-learning-project/main/GOOG%20(4).csv)
+
+(ii) On the top right, click on "connect"->"view resources"->Change Runtime Type and select Hardware accelerator as GPU and save.
+
+(ii) Execute the commands written on each line and the corresponding output will be shown below the cell.
+
+(iv)The libraries used are:
+    1. pandas
+    2. numpy
+    3. matplotlib
+
+
+Note: The table of the recordings with different hyperparameters(learning rate, number of training cycles) is added in the report.
+
+
